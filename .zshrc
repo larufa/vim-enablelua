@@ -142,10 +142,7 @@ alias -g G='| grep'
 alias h='history -i -35'
 alias c='clear'
 alias v='vim'
-alias less='/usr/share/vim/vim73/macros/less.sh'
-alias vim=/usr/local/bin/vim
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
+alias less='/usr/share/vim/vim74/macros/less.sh'
 
 # Git用の設定
 alias g='git'
