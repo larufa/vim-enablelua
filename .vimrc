@@ -25,6 +25,8 @@ NeoBundle 'tomtom/tcomment_vim'
 NeoBundle 'othree/html5.vim'
 NeoBundle 'mattn/emmet-vim'
 NeoBundle 'fuenor/qfixgrep'
+NeoBundle 'elixir-lang/vim-elixir'
+NeoBundle 'mattreduce/vim-mix'
 "
 call neobundle#end()
 "
