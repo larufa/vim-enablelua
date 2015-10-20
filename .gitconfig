@@ -1,0 +1,27 @@
+[user]
+  name = larufa
+  email = larufa@larufa.pw
+[core]
+  editor = /usr/local/bin/vim
+[url "https://"]
+  insteadOf = git://
+[color]
+  ui = true
+[diff]
+  tool = vimdiff
+  algorithm = histogram
+[fetch]
+  prune = true
+[alias]
+  c = commit -v
+  o = checkout
+  b = checkout -b
+  f = fetch
+  pu = push
+  puu = push -u
+  r = remote
+  s = status
+  d = diff
+  a = add
+  l = log --graph --oneline
+  m = merge
